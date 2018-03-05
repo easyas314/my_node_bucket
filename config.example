@@ -1,0 +1,10 @@
+Host github.com
+HostName github.com
+User git
+IdentityFile ~/.ssh/github_bjs
+
+Host git
+HostName 10.0.0.42
+User git
+
+
